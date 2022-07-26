@@ -271,8 +271,8 @@ as well and each command has its own help page accessible with `git pull --help`
 * [Git - Book](https://git-scm.com/book/en/v2)
 * [Git - Reference](https://git-scm.com/docs)
 * [Oh Shit, Git!?!](https://ohshitgit.com/) / [Dangit, Git!?!](https://dangitgit.com/en)
-* [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
-* [Introduction of Git For Beginners | W3Docs Git Online Tutorial](https://www.w3docs.com/learn-git/introduction4.html)
+* [Git Tutorials and Training : Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+* [Introduction of Git For Beginners : W3Docs Git Online Tutorial](https://www.w3docs.com/learn-git/introduction4.html)
 
 ## GitHub
 
@@ -298,8 +298,8 @@ There are a host of different Integrated Development Environments (IDEs) availab
 
 ### PyCharm
 
-* [Git | PyCharm](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
-* [GitHub | Pycharm](https://www.jetbrains.com/help/pycharm/github.html)
+* [Git : PyCharm](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
+* [GitHub : Pycharm](https://www.jetbrains.com/help/pycharm/github.html)
 
 ### RStudio
 
